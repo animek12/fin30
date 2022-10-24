@@ -125,7 +125,7 @@ global.xckey = 'BOhjM2hUVn'
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
 global.wm = '       「 赤 FIN - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - md❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm2 = '➳༻❀Fin - md❁ུ۪۪.;:୭̥.' //Name Wm
 global.wm3 = '赤 FIN - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
