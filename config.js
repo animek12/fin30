@@ -30,42 +30,42 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.swb = 'https://fangzbot.websites.co.in'
+global.sig = 'https://instagram.com/al_vin.233' //Instagram mu
+global.sgh = 'https://github.com/Raya2399' //Github mu
+global.swb = 'https://linktr.ee/fin222'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.syt = 'https://youtube.com/channel/UCCZFKpk85uGzGdGk9kUZUIA' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/KwmT6WBRghjBTHrxpxWNre' //Group WhatsApp mu
+global.sdc = 'https://discord.gg/WY9G6cExRK' //Discord Mu
+global.snh = 'NOT FOUND' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘PAYMENT⫘⫘⫘⫘⫘*/
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.psaweria = 'https://saweria.co/Rimuru233' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* NOT FOUND\n│┝‷✧ *Dana:* 081332995497\n│┝‷✧ *Gopay:* 081332995497\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6281332995497' //Nomor Bot mu
+global.namebot = 'Fin Botz' //Nama bot mu
+global.nameown = 'Fin' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
-global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.swo = 'https://wa.me/6288215689772'
-global.author = '                © Fangz BOT By Fangz' //Wm author
-global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.after = 'Bot by Fin'
+global.swo = 'https://wa.me/6282261065144'
+global.author = '                © Fin BOT By Fin' //Wm author
+global.botintro = 'Hallo, Kenalin saya Fin BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Fin* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
-global.serialimg = 'https://telegra.ph/file/eaf30ca57d5c4c2d7a6f0.jpg'
-global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
+global.serialimg = 'https://telegra.ph/file/28ffa1563f18b1b25b8ae.jpg'
+global.jlimit = 'https://telegra.ph/file/32a1c6ebf1e292e78181d.jpg'
 global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
-global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
+global.thumbnailCuaca = 'https://telegra.ph/file/9961dd50bcec2a4603d64.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281320170984'], //Owner1
-  ['79680341674'], //Owner2
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6282261065144'], //Owner1
+  ['6282261065144'], //Owner2
+  ['6282261065144', 'FIN ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -124,21 +124,21 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '       「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '       「 赤 FIN - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Fangz - md❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 FIN - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: FangzXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: Alwanganz' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
-global.logo = 'https://ibb.co/17RY7x9'
-global.thumb = 'https://telegra.ph/file/22abfec5e8c5b3e6596d1.jpg' //Thumbnail nya
+global.logo = 'https://ibb.co/17RY7x9'
+global.thumb = 'https://telegra.ph/file/9961dd50bcec2a4603d64.jpg' //Thumbnail nya
 global.thumb2 = 'https://telegra.ph/file/312d5d7a5ad4d4f8b5d7a.jpg' //Thumbnail 2
 global.thumbbc = 'https://telegra.ph/file/3377bec81cd8614917d24.jpg' //Image Bcgcb
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -453,10 +453,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'https://wa.me/6288215689772'
+global.nameowner = 'Fin'
+global.umurowner = '17'
+global.asalowner = 'Samarinda, Ksltim'
+global.nomorowner = 'https://wa.me/6282261065144'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -487,9 +487,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FangzXD'
-global.stickauth = `Fangz BOT\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickpack = 'Owner: Fin'
+global.stickauth = `Fin BOT\nNomor: ${global.nomorbot}`
+global.packname = 'By Fin'
 
 
 global.multiplier = 38 // The higher, The harder levelup
@@ -653,7 +653,7 @@ global.fpayment = (m) => {
 			requestFrom: (m !== null && m !== undefined) ? m.sender : '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
-					text: (m !== null && m !== undefined) ? m.text : 'Subs YT: FangzXD'
+					text: (m !== null && m !== undefined) ? m.text : 'join GC: Fim'
 				}
 			},
 			expiryTimestamp: 999999999,
