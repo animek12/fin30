@@ -565,7 +565,7 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	return conn.sendButton(m.chat, bottime, text, `${imgr + 'Menu'}`, [["REFERAL", _p + "ref"], ["SCRIPT", _p + "sc"], ["OWNER", _p + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://youtu.be/nae-aQ7I420",
+                mediaUrl: "https://telegra.ph/file/ba28427aecd8eca448325.mp4",
                 mediaType: "VIDEO",
                 title: `Hallo👋 ${name} ${ucpn}`,
                 body: `RUNTIME: ${mpt}`,
@@ -592,12 +592,12 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Fangz TEAM',
+            footer: titlebot + '\n⚡ Supported By Fin TEAM',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://fangzbot.websites.co.in/'
+                        url: 'https://linktr.ee/fin222'
                     }
                 },
                 {
